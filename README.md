@@ -3,3 +3,8 @@ This is a personal project of mine where I homebrewed my steam deck to code in t
 
 # Before
 
+![This is an image](/Screenshots/Default.jpg)
+
+#After
+
+![This is an image](/Screenshots/Custom.jpg)
